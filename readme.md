@@ -1,13 +1,12 @@
 # An AutoHotKey Script
 
-Converts month names into month numbers and vice versa.
- Converts month numbers into month names handling various formats. 01.07.2018, 01 /07/ 2018, 01/07/2018, 01 07 2018, and 01-07-2018, become 15-JUL-2018.
+Converts month names into month numbers and vice versa.<br />
+ Converts month numbers into month names handling various formats. 01.07.2018, 01 /07/ 2018, 01/07/2018, 01 07 2018, and 01-07-2018, become 15-JUL-2018.<br />
  Converts month names into month numbers handling various formats. 01.JUL.2018, 01 /JUL/ 2018, 01/JUL/2018, 01 JUL 2018, and 01-JUL-2018 become 15-07-2018.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
-Given that you are a GitHub user, I am not covering any basics of installation issues. 
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. Given that you are a GitHub user, I am not covering basics of installation issues. 
 
 ### Prerequisites
 
