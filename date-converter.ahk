@@ -31,7 +31,7 @@ monthArray := {JAN: "01", FEB: "02", FEV: "02", FÉV: "02", MAR: "03", APR: "04"
 ; defines the hotkey
 ^1::
 
-	MsgBox, 1, ctrl+1 01-07-2018 becomes 01-JUL-2018, Converts month numbers into month names handling various formats:`n`n01.07.2018 or 01 /07/ 2018 or 01/07/2018 or 01 07 2018 or 01-07-2018`nbecomes 15-JUL-2018
+	MsgBox, 1, ctrl+1 01-07-2018 becomes 01-JUL-2018, Converts month numbers into month names handling various formats:`n`n01.07.2018 or 01 /07/ 2018 or 01/07/2018 or 01 07 2018 or 01-07-2018`nbecomes 01-JUL-2018
 
 	; empties the clipboard
 	Clipboard =
@@ -75,7 +75,7 @@ Return
 ; defines the hotkey
 ^2::
 
-	MsgBox, 1, ctrl+2 01-JUL-2018 becomes 01-07-2018, Converts month names into month numbers handling various formats:`n`n01.JUL.2018 or 01 /JUL/ 2018 or 01/JUL/2018 or 01 JUL 2018 or 01-JUL-2018`nbecomes 15-07-2018
+	MsgBox, 1, ctrl+2 01-JUL-2018 becomes 01-07-2018, Converts month names into month numbers handling various formats:`n`n01.JUL.2018 or 01 /JUL/ 2018 or 01/JUL/2018 or 01 JUL 2018 or 01-JUL-2018`nbecomes 01-07-2018
 
 	; empties the clipboard
 	Clipboard =
