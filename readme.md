@@ -1,8 +1,8 @@
 # An AutoHotKey Script
 
 Converts month names into month numbers and vice versa.<br />
- Converts month numbers into month names handling various formats. 01.07.2018, 01 /07/ 2018, 01/07/2018, 01 07 2018, and 01-07-2018, become 15-JUL-2018.<br />
- Converts month names into month numbers handling various formats. 01.JUL.2018, 01 /JUL/ 2018, 01/JUL/2018, 01 JUL 2018, and 01-JUL-2018 become 15-07-2018.
+ Converts month numbers into month names handling various formats. 01.07.2018, 01 /07/ 2018, 01/07/2018, 01 07 2018, and 01-07-2018, become 01-JUL-2018.<br />
+ Converts month names into month numbers handling various formats. 01.JUL.2018, 01 /JUL/ 2018, 01/JUL/2018, 01 JUL 2018, and 01-JUL-2018 become 01-07-2018.
 
 ## Getting Started
 
